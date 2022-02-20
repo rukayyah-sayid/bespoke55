@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Julius+Sans+One&family=Source+Sans+Pro:wght@600&display=swap');
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1){
+  /* .container {
+    margin: 0px !important;
+    padding: 0px !important;
+  } */
+
+  .font-md-14 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px !important;
+  }
+
+  .font-md-16 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px !important;
+  }
+
+  .font-md-20 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px !important;
+    /* line-height: 42px; */
+  }
+
+  .font-md-24 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px !important;
+    /* line-height: 42px; */
+  }
+
+  .font-md-30 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 30px !important;
+    /* line-height: 42px; */
+  }
+
+  /* .logo {
+    margin-left: -310px !important;
+  } */
+
+  /* .nav-link {
+    margin-left: 150px !important;
+  } */
+
+  .nav-btn {
+    background: black !important;
+    color: white !important;
+    text-transform: uppercase !important;
+    margin-left: -25px !important;
+  }
+
+  .dropdown-item {
+    background: black !important;
+    color: white !important;
+  }
+
+  .carousel-text {
+    padding-left: 70px !important;
+    margin-top: 60px;
+    /* margin-bottom: 20px; */
+  }
+
+  #my-carousel {
+    /* margin-top: 10px; */
+    height: 100%;
+  }
+
+  .logo-footer {
+    width: 130px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 420px) {
+  .nav-btn {
+    background: black !important;
+    color: white !important;
+    text-transform: uppercase !important;
+    margin-left: -25px !important;
+  }
+
+  .dropdown-item {
+    background: black !important;
+    color: white !important;
+  }
+
+  .font-sm-12 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px !important;
+  }
+
+  .font-sm-14 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px !important;
+  }
+
+  .font-sm-16 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px !important;
+  }
+
+  .font-sm-18 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px !important;
+  }
+
+  .font-sm-22 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 22px !important;
+  }
+
+  .font-sm-28 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 28px !important;
+  }
+
+  .loader-img {
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  .carousel-text {
+    display: none !important;
+  }
+
+  .carousel-hide-sm {
+    display: none !important;
+  }
+
+  .carousel-item {
+    height: 100%;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+    z-index: 1 !important;
+    
+    }
+
+  .carousel-caption {
+    z-index: 2345 !important;
+  }
+
+  #what-we-do {
+    margin-top: 18px !important;
+  }
+
+  .flex-small-column {
+    width: 315px !important;
+    flex-direction: column;
+    margin: 0px auto !important;
+  }
+
+  .card {
+    margin: 0px auto !important;
+    margin-bottom: 15px !important;
+  }
+
+  .objectives {
+    display: none !important;
+  }
+
+  .logo-footer {
+    display: none !important;
+    /* visibility: hidden; */
+  }
+
+  .d-sm-none {
+    display: none !important;
+  }
+
+  .col-auto-sm {
+    width: 310px !important;
+  }
+
+  /* .form-row {
+    flex: ;
+  } */
+
+}

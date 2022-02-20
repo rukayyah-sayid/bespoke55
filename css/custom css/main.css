@@ -138,11 +138,19 @@ nav {
   font-weight: 700 !important;
 }
 
+.dropdown:active, .dropdown:focus {
+  border: 1px solid black;
+}
+
 /* card style */
 
 .card:hover, .card:focus, .card:active {
   transform: scale(1.1);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+#card-sm-screen {
+  display: none !important;
 }
 
 /* form style */
